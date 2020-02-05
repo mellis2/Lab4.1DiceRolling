@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\bin\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1 Dice Rolling\obj\Debug\netcoreapp3.1\Lab4.1 Dice Rolling.pdb
